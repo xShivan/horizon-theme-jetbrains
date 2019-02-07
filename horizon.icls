@@ -1,9 +1,9 @@
 <scheme name="Horizon" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-02-07T08:59:12</property>
+    <property name="created">2019-02-07T21:11:20</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.3.2.0.0</property>
-    <property name="modified">2019-02-07T08:59:23</property>
+    <property name="modified">2019-02-07T21:11:27</property>
     <property name="originalScheme">Horizon</property>
   </metaInfo>
   <colors>
@@ -321,8 +321,8 @@
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="26bbd9" />
-        <option name="ERROR_STRIPE_COLOR" value="3fc4de" />
+        <option name="BACKGROUND" value="1b556c" />
+        <option name="ERROR_STRIPE_COLOR" value="26bbd9" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
