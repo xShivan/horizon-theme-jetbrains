@@ -1,18 +1,11 @@
 <scheme name="Horizon" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-01-26T23:30:50</property>
+    <property name="created">2019-02-07T08:59:12</property>
     <property name="ide">Rider</property>
-    <property name="ideVersion">2018.3.1.0.0</property>
-    <property name="modified">2019-01-26T23:30:54</property>
+    <property name="ideVersion">2018.3.2.0.0</property>
+    <property name="modified">2019-02-07T08:59:23</property>
     <property name="originalScheme">Horizon</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
-  <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="227d58" />
     <option name="CARET_COLOR" value="e95678" />
@@ -31,7 +24,7 @@
     <option name="INFORMATION_HINT" value="232530" />
     <option name="LINE_NUMBERS_COLOR" value="3a3b44" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="7a7c82" />
-    <option name="MODIFIED_LINES_COLOR" value="fac39a" />
+    <option name="MODIFIED_LINES_COLOR" value="26bbd9" />
     <option name="QUESTION_HINT" value="6c6f93" />
     <option name="SELECTION_BACKGROUND" value="2e303e" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="1c1e26" />
@@ -40,7 +33,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_4" value="3a3b49" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="6c6f93" />
     <option name="WHITESPACES" value="ffb373" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="fab38e" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="59e1e3" />
   </colors>
   <attributes>
     <option name="BAD_CHARACTER">
@@ -328,8 +321,8 @@
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="88532f" />
-        <option name="ERROR_STRIPE_COLOR" value="fab38e" />
+        <option name="BACKGROUND" value="26bbd9" />
+        <option name="ERROR_STRIPE_COLOR" value="3fc4de" />
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
